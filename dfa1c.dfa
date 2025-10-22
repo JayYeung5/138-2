@@ -1,6 +1,6 @@
 alphabet: {0, 1}
 start: q0
-accepting {q0, q4}
+accepting: {q0, q4}
 
 q0 (0 -> q1) (1 -> q5)
 q1 (0 -> q2) (1 -> q3)
